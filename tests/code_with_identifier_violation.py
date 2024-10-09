@@ -4,6 +4,6 @@
 #     return identifier_134
 class MyClass:
     def my_method(self):
-        identifier_134 = 5  
+        identifier_13 = 5  
 
-    another_identifier = 10 
+    another_identifier123 = 10 
