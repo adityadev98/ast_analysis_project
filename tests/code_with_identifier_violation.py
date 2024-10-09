@@ -6,4 +6,4 @@ class MyClass:
     def my_method(self):
         identifier_13 = 5  
 
-    another_identifier123 = 10 
+    another_identifier124 = 10 
